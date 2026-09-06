@@ -1,0 +1,1601 @@
+symptom_text,disease,triage
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a throbbing headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have a throbbing headache on one side and feel nauseous.,Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I feel a throbbing pain at the front that pulses.,Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a splitting pain in the back that pulses.,Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I feel a severe pain on one side that pulses.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a splitting headache on one side and feel nauseous.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a throbbing headache in the back and feel nauseous.,Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a throbbing headache in the back and feel nauseous.,Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I feel a throbbing pain on one side that pulses.,Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I feel a dull pain in the back that pulses.,Migraine,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel a throbbing pain on one side that pulses.,Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I feel a dull pain on one side that pulses.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a severe pain behind my eyes that pulses.,Migraine,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel a dull pain on one side that pulses.,Migraine,Consult Doctor
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a severe headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have a severe headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have a dull headache in the back and feel nauseous.,Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a throbbing pain at the front that pulses.,Migraine,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a throbbing pain at the front that pulses.,Migraine,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel a throbbing pain on one side that pulses.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a dull headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a dull headache on one side and feel nauseous.,Migraine,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a splitting headache at the front and feel nauseous.,Migraine,Consult Doctor
+I have a dull headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I have a dull headache at the front and feel nauseous.,Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel a dull pain at the front that pulses.,Migraine,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I feel a dull pain behind my eyes that pulses.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel a severe pain at the front that pulses.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel a throbbing pain at the front that pulses.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I have a dull headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have a splitting headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a severe pain in the back that pulses.,Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a throbbing pain at the front that pulses.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a dull headache on one side and feel nauseous.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel a severe pain on one side that pulses.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a cold with a slight cough and watery eyes.,Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a dull pain behind my eyes that pulses.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel a severe pain in the back that pulses.,Migraine,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel a dull pain behind my eyes that pulses.,Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have a splitting headache on one side and feel nauseous.,Migraine,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have a throbbing headache at the front and feel nauseous.,Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I have a throbbing headache on one side and feel nauseous.,Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a splitting headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I have a throbbing headache at the front and feel nauseous.,Migraine,Consult Doctor
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a throbbing headache in the back and feel nauseous.,Migraine,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a cold with a slight cough and watery eyes.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a splitting headache on one side and feel nauseous.,Migraine,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I feel a throbbing pain on one side that pulses.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I feel a throbbing pain in the back that pulses.,Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel a throbbing pain in the back that pulses.,Migraine,Consult Doctor
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a severe pain at the front that pulses.,Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a severe headache on one side and feel nauseous.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a throbbing pain in the back that pulses.,Migraine,Consult Doctor
+I feel a severe pain on one side that pulses.,Migraine,Consult Doctor
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have a throbbing headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have a throbbing headache at the front and feel nauseous.,Migraine,Consult Doctor
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a severe pain in the back that pulses.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have a splitting headache at the front and feel nauseous.,Migraine,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I have a severe headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a severe headache on one side and feel nauseous.,Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have a cold with a slight cough and watery eyes.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a splitting headache in the back and feel nauseous.,Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel a dull pain on one side that pulses.,Migraine,Consult Doctor
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I have a severe headache in the back and feel nauseous.,Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a dull headache in the back and feel nauseous.,Migraine,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I feel a dull pain at the front that pulses.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a severe headache on one side and feel nauseous.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a throbbing pain on one side that pulses.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a dull pain behind my eyes that pulses.,Migraine,Consult Doctor
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a severe pain in the back that pulses.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a severe headache at the front and feel nauseous.,Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have chronic stiffness in my hips and shoulders.,Arthritis,Schedule Appointment
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I feel a dull pain on one side that pulses.,Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a splitting headache on one side and feel nauseous.,Migraine,Consult Doctor
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have a splitting headache on one side and feel nauseous.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a dull headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel a severe pain on one side that pulses.,Migraine,Consult Doctor
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have sharp chest pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I have a throbbing headache on one side and feel nauseous.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have inflammation in my hips and shoulders.,Arthritis,Schedule Appointment
+I have a dull headache at the front and feel nauseous.,Migraine,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I have a severe headache in the back and feel nauseous.,Migraine,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I feel a severe pain behind my eyes that pulses.,Migraine,Consult Doctor
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have radiating pain spreading to my jaw and back.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+My throat hurts and I keep sneezing constantly.,Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I feel exhausted and have a bad cough.,COVID-19,Consult Doctor
+I have a severe headache at the front and feel nauseous.,Migraine,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I have a bad fever, runny nose, and a persistent cough.",Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+"I have to squint to read signs far away, my eyesight is weak.",Refractive Error (Eye Issue),Schedule Eye Exam
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel a splitting pain on one side that pulses.,Migraine,Consult Doctor
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have sharp joint pain in my hips and shoulders.,Arthritis,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I have a blurry vision and extreme thirst and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My joints ache and it's hard to move them when I wake up.,Arthritis,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have a throbbing headache on one side and feel nauseous.,Migraine,Consult Doctor
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I feel a severe pain in the back that pulses.,Migraine,Consult Doctor
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+"I lost my sense of smell, have a fever, and feel extremely tired.",COVID-19,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I have a dull headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+My eyes are seeing blurry and I can't focus on distant objects.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+I have a tingling feeling in my hands and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+"I feel extremely hungry all the time, very thirsty, and tired.",Diabetes,Schedule Appointment
+My body aches and I have a high temperature with a sore throat.,COVID-19,Consult Doctor
+"I have a mild fever, runny nose, and a persistent cough.",Common Cold,Self-care
+I have shortness of breath and a dry cough.,COVID-19,Consult Doctor
+I have severe joint pain in my fingers and wrists.,Arthritis,Schedule Appointment
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+I feel a severe pain on one side that pulses.,Migraine,Consult Doctor
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+"I have a high fever, runny nose, and a persistent cough.",Common Cold,Self-care
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+I'm feeling congested with a mild headache and sore throat.,Common Cold,Self-care
+Things look fuzzy and my eyes feel strained when I look at screens.,Refractive Error (Eye Issue),Schedule Eye Exam
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I have a cold with a high cough and watery eyes.,Common Cold,Self-care
+"My stomach hurts, I have diarrhea, and I keep vomiting.",Gastroenteritis,Self-care / Hydration
+I have a dry mouth and constant fatigue and my cuts take a long time to heal.,Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+I am sweating a lot and having trouble breathing.,Cardiac Issue,Emergency Room
+I have a heavy feeling in my chest spreading to my jaw and back.,Cardiac Issue,Emergency Room
+I have severe stomach cramps and feel like throwing up.,Gastroenteritis,Self-care / Hydration
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+There is a tight pressure in my chest and I feel dizzy.,Cardiac Issue,Emergency Room
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+"I am constantly thirsty, urinating a lot, and my vision gets blurry.",Diabetes,Schedule Appointment
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel exhausted and have a dry cough.,COVID-19,Consult Doctor
+I have a throbbing headache behind my eyes and feel nauseous.,Migraine,Consult Doctor
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+I have a cold with a bad cough and watery eyes.,Common Cold,Self-care
+I can't keep any food down and have loose motions.,Gastroenteritis,Self-care / Hydration
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+"My knees are swollen, red, and stiff in the morning.",Arthritis,Schedule Appointment
+I feel exhausted and have a wet cough.,COVID-19,Consult Doctor
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I lost weight unexpectedly and feel fatigued with blurry vision.,Diabetes,Schedule Appointment
+I feel nauseous and have cramps in my lower abdomen.,Gastroenteritis,Self-care / Hydration
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+I am experiencing blurry vision and my eyes get tired easily.,Refractive Error (Eye Issue),Schedule Eye Exam
+Bright lights hurt my eyes and I feel dizzy.,Migraine,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I feel a crushing pain in my chest and my left arm hurts.,Cardiac Issue,Emergency Room
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+I have a cold with a mild cough and watery eyes.,Common Cold,Self-care
+I feel a throbbing pain behind my eyes that pulses.,Migraine,Consult Doctor
+"There is a severe throbbing pain in my head, making me want to vomit.",Migraine,Consult Doctor
+"I have a slight fever, runny nose, and a persistent cough.",Common Cold,Self-care
